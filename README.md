@@ -7,14 +7,14 @@
 🔭 I'm currently working on Portfolio<br>
 🤹 I'm currently learning Next.js <br>
 👯 I'm looking for Open-source collaboration <br>
-💬 Ask me anything [here.](https://github.com/SujalShah3234/SujalShah3234/issues) <br>
+💬 Ask me anything [here.](https://github.com/SujalXplores/SujalXplores/issues) <br>
 💎 I have a habit of adjusting and improving projects
 
 ---
 
 <details>
   <summary>🏆 GitHub Awards</summary><br>
-  <img width=800 alt="Sujal Shah | Github Awards" src="https://github-profile-trophy.vercel.app/?username=sujalshah3234&theme=gruvbox&no-frame=true&margin-w=15" />
+  <img width=800 alt="Sujal Shah | Github Awards" src="https://github-profile-trophy.vercel.app/?username=sujalxplores&theme=gruvbox&no-frame=true&margin-w=15" />
 </details>
 
 <details>
@@ -23,7 +23,7 @@
     <img alt="Sujal Shah | Profile Views" src="https://enw4zvq5ga1ahs6.m.pipedream.net" />
   </p>
   <a href="https://github.com/sujalshah3234github-readme-activity-graph">
-    <img alt="Sujal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sujalshah3234&theme=github" />
+    <img alt="Sujal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sujalxplores&theme=github" />
   </a>
 </details>
 
