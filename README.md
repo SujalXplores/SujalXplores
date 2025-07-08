@@ -1,14 +1,15 @@
 # Hi there, I'm Sujal! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=3B88C3&random=false&width=435&lines=Software+Engineer+from+India;JavaScript+Enthusiast;Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=3B88C3&random=false&width=600&lines=Software+Engineer+%2B+AI+Enthusiast;Building+AI-Powered+Applications;Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 [![An image of @sujalshah3234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujalshah3234)](https://holopin.io/@sujalshah3234)
 
 ## 🧑🏻‍💻 About Me
 
-- 🔭 Currently crafting: My Portfolio
-- 🌱 Learning: Next.js
-- 👯 Open to: Open-source collaborations
+- 🔭 Currently crafting: AI-powered web applications with Next.js
+- 🤖 Working on: RAG systems, AI chatbots, and LLM integrations
+- 🌱 Learning: LangChain, Vector Databases, and Generative AI
+- 👯 Open to: AI/ML collaborations and open-source contributions
 - 💬 Ask me anything: [Open an Issue](https://github.com/SujalXplores/SujalXplores/issues)
 - 💎 Fun fact: I have a passion for continuously improving and refining projects
 
