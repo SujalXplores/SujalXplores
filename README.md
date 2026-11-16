@@ -1,12 +1,12 @@
 # Sujal Shah
 
-Senior Frontend Engineer. I lead frontend for factory software at ZURU Tech and build open-source AI developer tools.
+Senior Software Engineer at ZURU Tech. I work mostly in TypeScript and React, and build open-source AI developer tools.
 
 React · TypeScript · Next.js · Design systems · Frontend performance · UI for AI products
 
 ### Selected work
 
-- **[v0.diy](https://github.com/SujalXplores/v0.diy)**: open-source AI React component generator. 169 stars, 80 forks.
+- **[v0.diy](https://github.com/SujalXplores/v0.diy)**: open-source AI React component generator. 170+ stars, 80 forks.
 - **[Faber UI](https://faber-ui.vercel.app)**: AI-ready component library. 60 components, 122 design tokens, zero runtime dependencies.
 - **[Modern Face API](https://github.com/SujalXplores/modern-face-api)**: TypeScript rewrite of face-api.js, about 3x faster, on npm. 1st place, Code Resurrection Hackathon 2025.
 - **[Self-Healing Scraper](https://github.com/SujalXplores/self-healing-scraper)**: detects silent extraction breaks and repairs itself. Runs daily in GitHub Actions.
