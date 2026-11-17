@@ -1,6 +1,6 @@
 # Sujal Shah
 
-**Senior Software Engineer at ZURU Tech.** I build the software that runs robotic home-building factories, the design system every ZURU web application uses, and open-source AI developer tools.
+**Senior Software Engineer at ZURU Tech.** I build the software that runs ZURU's robotic home-building factories and the design system every ZURU web app uses. In my own time I build open-source AI developer tools.
 
 TypeScript · React · Next.js · Design Systems · Web Performance · Model Context Protocol (MCP)
 
@@ -17,7 +17,7 @@ TypeScript · React · Next.js · Design Systems · Web Performance · Model Con
 ### Selected work
 
 - **[v0.diy](https://github.com/SujalXplores/v0.diy)**: open-source AI React component generator. 170+ stars, 80+ forks.
-- **[Faber UI](https://faber-ui.vercel.app)**: AI-ready component library. 60 components, 122 design tokens, zero runtime dependencies.
+- **[Faber UI](https://github.com/SujalXplores/faber-ui)**: component library on Base UI and Tailwind CSS v4. 60 components, 122 design tokens, no runtime dependencies.
 - **[Modern Face API](https://github.com/SujalXplores/modern-face-api)**: TypeScript rewrite of face-api.js, about 3x faster, ~1.4k npm downloads a month. 1st place, Code Resurrection Hackathon 2025.
 - **[Agent K](https://github.com/SujalXplores/Agent-K)**: incident-response agent that investigates SigNoz alerts with evidence-backed root causes, built on MCP and OpenTelemetry.
 - **[tldraw MCP](https://github.com/SujalXplores/tldraw-mcp)**: MCP server for AI-drawn tldraw canvases, hardened with strict TypeScript, tests and input validation.
@@ -29,7 +29,7 @@ TypeScript · React · Next.js · Design Systems · Web Performance · Model Con
 
 ### Hackathons
 
-4 podium finishes, including 1st place at Code Resurrection 2025 and Neuro Nostalgia 2024. [All 18 entries →](https://sujal.vercel.app/hackathons)
+4 podium finishes, including 1st place at Code Resurrection 2025 and Neuro Nostalgia 2024. [See all 18 entries](https://sujal.vercel.app/hackathons).
 
 ### Writing
 
