@@ -64,7 +64,7 @@ Sono un ingegnere del software focalizzato su applicazioni AI e strumenti per sv
 <p>
   <a href="https://www.linkedin.com/in/sujal-shah-ai-craftsman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/sujal_shah10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://sujal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://sujalshah.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <a href="https://www.buymeacoffee.com/sujal" target="_blank">

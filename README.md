@@ -29,14 +29,14 @@ TypeScript · React · Next.js · Design Systems · Web Performance · Model Con
 
 ### Hackathons
 
-4 podium finishes, including 1st place at Code Resurrection 2025 and Neuro Nostalgia 2024. [See all 18 entries](https://sujal.vercel.app/hackathons).
+4 podium finishes, including 1st place at Code Resurrection 2025 and Neuro Nostalgia 2024. [See all 18 entries](https://sujalshah.tech/hackathons).
 
 ### Writing
 
-- [Understanding React Server Components](https://sujal.vercel.app/blog/react-server-components)
-- [Container Queries and cq* Units](https://sujal.vercel.app/blog/container-query-units)
-- [All posts](https://sujal.vercel.app/blog)
+- [Understanding React Server Components](https://sujalshah.tech/blog/react-server-components)
+- [Container Queries and cq* Units](https://sujalshah.tech/blog/container-query-units)
+- [All posts](https://sujalshah.tech/blog)
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/sujalshah-dev) · [Portfolio](https://sujal.vercel.app) · [Resume](https://sujal.vercel.app/Sujal_Shah_Resume.pdf) · sujal.shah.dev@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sujalshah-dev) · [Portfolio](https://sujalshah.tech) · [Resume](https://sujalshah.tech/Sujal_Shah_Resume.pdf) · sujal.shah.dev@gmail.com
